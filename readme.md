@@ -1,7 +1,7 @@
 - 👋 Hi, This is @habitablex - Habitable Solution (IT Support and Solution)
 - 👀 Visit www.habitablesolution.com
 - 🌱 Contact info@habitablesolution.com
-- 💞️ Conncet admin@habitablesolution
+- 💞️ Conncet admin@habitablesolution.com
 - 📫 WhatsApp https://wa.me/8801713400421
 
 <!---
